@@ -14,37 +14,37 @@
 - [Python](#python)
 
 ## 基本技能
-##### 程式語言
+### 程式語言
 - [x] Java
 - [ ] Python
 - [ ] Kotlin
 
-##### 版控
+### 版控
 - [x] Git
 - [ ] Svn
 
-##### 設計模式
+### 設計模式
 - [x] Factory
 - [x] Singleton
 - [x] MVC
 - [x] MVP
 - [ ] MVVM
 
-##### CI/CD Tool
+### CI/CD Tool
 - [x] Jenkins
 
-##### 開發應用
+### 開發應用
 - [x] Docker
 
 ## Android
-##### 人工智能
+### 人工智能
 - [x] TensorFlow Lite
   - 模型加解密
   - 移植 python 預測程式碼
   - 模組化 (打包SDK)
   - 與 python 預測結果誤差可達 10 的 -8 次方以下
 
-##### UI
+### UI
 - [x] 自動適屏
   - Constraintlayout
   - [sdp](https://github.com/intuit/sdp "sdp")
@@ -56,21 +56,21 @@
 - [ ] UI Component
 - [ ] UI Template
 
-##### 資料庫
+### 資料庫
 - [x] SQLite
 - [ ] Room
 
-##### 網路
+### 網路
 - [ ] Web API
 - [ ] WebSocket
 
-##### Static Analysis Tool
+### Static Analysis Tool
 - [x] Checkstyle
 - [ ] PMD
 - [ ] SpotBugs
 - [ ] Lint
 
-##### 其他
+### 其他
 - [x] 串接外部SDK
 - [x] ProGuard
   - 程式碼混淆
