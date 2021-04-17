@@ -1,16 +1,16 @@
 - [基本技能](#基本技能)
-      - [程式語言](#程式語言)
-      - [版控](#版控)
-      - [設計模式](#設計模式)
-      - [CI/CD Tool](#cicd-tool)
-      - [其他](#其他)
+    - [程式語言](#程式語言)
+    - [版控](#版控)
+    - [設計模式](#設計模式)
+    - [CI/CD Tool](#cicd-tool)
+    - [開發應用](#開發應用)
 - [Android](#android)
-      - [人工智能](#人工智能)
-      - [UI](#ui)
-      - [資料庫](#資料庫)
-      - [網路](#網路)
-      - [Static Analysis Tool](#static-analysis-tool)
-      - [其他](#其他-1)
+    - [人工智能](#人工智能)
+    - [UI](#ui)
+    - [資料庫](#資料庫)
+    - [網路](#網路)
+    - [Static Analysis Tool](#static-analysis-tool)
+    - [其他](#其他)
 - [Python](#python)
 
 ## 基本技能
@@ -33,7 +33,7 @@
 ##### CI/CD Tool
 - [x] Jenkins
 
-##### 其他
+##### 開發應用
 - [x] Docker
 
 ## Android
