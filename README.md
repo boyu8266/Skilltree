@@ -7,6 +7,7 @@
 - [Android](#android)
     - [人工智能](#人工智能)
     - [UI](#ui)
+    - [執行序控管](#執行序控管)
     - [資料庫](#資料庫)
     - [網路](#網路)
     - [Static Analysis Tool](#static-analysis-tool)
@@ -55,6 +56,12 @@
   - GridLayoutManager: 方格
 - [ ] UI Component
 - [ ] UI Template
+
+### 執行序控管
+- [x] ThreadPoolManager
+    - [EasyThread](https://github.com/yjfnypeu/EasyThread)
+- [x] CompletableFuture
+- [x] Future
 
 ### 資料庫
 - [x] SQLite
